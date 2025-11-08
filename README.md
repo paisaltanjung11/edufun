@@ -11,7 +11,7 @@
     ## 1. Clone the Repository
     
     ```bash
-    git clone [https://github.com/username/EduFun.git](https://github.com/paisaltanjung11/edufun)
+    git clone https://github.com/paisaltanjung11/edufun
     cd EduFun
     ```
     
