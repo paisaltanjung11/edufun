@@ -1,4 +1,10 @@
-- step
+
+## Requirements
+- PHP 8.0 or higher  
+- Composer  
+- MySQL database  
+- Git  
+
     
     # Installation Steps
     
